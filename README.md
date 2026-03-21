@@ -1,5 +1,5 @@
 
-# Olá mundo! meu nome é Silanio Moura | Full Stack & DevOps
+# Olá mundo! meu nome é Silanio De Moura Rodrigues | Analista de TI - Suporte • Service Desk • WSL •  Automação • Cloud • Linux • Segurança  • Docker • Container
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silanioo/)
 

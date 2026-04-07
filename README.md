@@ -1,5 +1,5 @@
 
-# Olá mundo! meu nome é Silanio De Moura Rodrigues
+# Olá mundo! meu nome é Silanio Moura
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silanioo/)
 
